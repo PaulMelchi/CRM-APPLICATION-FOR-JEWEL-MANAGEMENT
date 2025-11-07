@@ -29,4 +29,4 @@ Screenshots PDF in /screenshots/
 
 code in /code/
 
-git repo:
+git repo:[CRM-APPLICATION-FOR-JEWEL-MANAGEMENT](https://github.com/PaulMelchi/CRM-APPLICATION-FOR-JEWEL-MANAGEMENT.git)

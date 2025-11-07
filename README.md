@@ -18,3 +18,15 @@ To improve customer engagement through personalized services and timely communic
 Outcome:
 
 This project provides a comprehensive CRM system for jewel businesses, enabling them to manage their operations more efficiently—from customer acquisition to billing and reporting. It minimizes manual tasks, improves sales visibility, and helps build stronger customer relationships through Salesforce’s powerful CRM capabilities.
+
+mentor name: Mr.R.Manikandan ,University College Of Engineering Ramanathapuram
+
+Deliverables: 
+
+Report PDF in /Report/ 
+
+Screenshots PDF in /screenshots/ 
+
+code in /code/
+
+git repo:
